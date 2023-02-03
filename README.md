@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>HTML CSS JS - Defacer</title>
-  </head>
   <body>
     <li><a href="defacer.zip">sources.zip</a></li><br>
     <li><a href="404.html">404.html</a></li><br>
